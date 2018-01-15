@@ -17,4 +17,3 @@ function deepestChild(){
   const boo = document.querySelectorAll('#grand-node div');
   return boo[boo.length - 1];
 }
-}
